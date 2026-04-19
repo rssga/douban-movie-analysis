@@ -145,5 +145,8 @@ if __name__ == '__main__':
 ```
 
 ## 运行结果
+<img width="1000" height="600" alt="豆瓣电影Top 250评分分布" src="https://github.com/user-attachments/assets/39a36bdc-296a-4086-acb7-70b50b69fe27" />
+<img width="1000" height="600" alt="豆瓣电影Top 250评价人数随评分变化" src="https://github.com/user-attachments/assets/ada3bb53-7b99-4e59-8e48-5abb3df946fb" />
+<img width="640" height="480" alt="豆瓣电影Top 250评价人数随评分变化2" src="https://github.com/user-attachments/assets/37446cb1-60e0-4827-ac15-dffbe23cdc81" />
 
 
